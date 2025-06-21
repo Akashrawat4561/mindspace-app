@@ -12,7 +12,7 @@
 
 <h2>Installation</h2>
 <ul>
-  <li>git clone https://github.com/akashrawat4561/project.git</li>
+  <li>git clone https://github.com/user-name/mindspace-app.git</li>
   <li>cd project</li>
   <li>npm install</li>
   <li>npm run dev</li>
