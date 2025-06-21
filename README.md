@@ -1,20 +1,23 @@
-<h1>Mindspace Wellness App
-A React-based diary and wellness tracking application for managing personal entries and wellness details.
+<h1>Mindspace Wellness App</h1>
+<p>A React-based diary and wellness tracking application for managing personal entries and wellness details.</p>
 
-Features
-Write and save diary entries
-Track wellness details
-Data stored securely in browser local storage
-Simple authentication
-Chat bot
-Installation
-git clone https://github.com/your-username/mindspace-wellness-app.git
-cd mindspace-wellness-app
-npm install
-npm run dev
-Usage
-Open http://localhost:5173 in your browser.
-Create an account or log in.
-Start writing and managing your diary entries.
-License
-MIT</h1>
+<h2>Features</h2>
+<ul>
+<li>Write and save diary entries</li>
+<li>Track wellness details</li>
+<li>Data stored securely in browser local storage</li>
+<li>Simple authentication</li>
+<li>Chat bot</li>
+</ul>
+
+<h2>Installation</h2>
+<ul>
+  <li>git clone https://github.com/your-username/project.git</li>
+  <li>cd project</li>
+  <li>npm install</li>
+  <li>npm run dev</li>
+</ul>
+<h2>License</h2>
+<ul>
+  <li>MIT</li>
+</ul>
